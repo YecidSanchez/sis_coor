@@ -1,0 +1,9 @@
+Figura Geométrica en 2D
+Web: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+Por: threejs.org
+Capítulo: Creating a scene
+
+Figura Geométrica en 3D
+Libro: Hands-on Three.js 3D Web Visualisations (https://subscription.packtpub.com/video/data/9781838989279)
+Por: Nik Lever
+Capítulo: Create stunning visualizations and 3D scenes using the Three.js library
